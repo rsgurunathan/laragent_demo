@@ -1,4 +1,6 @@
 Installation:
+
+
 You can install LarAgent via Composer:
 composer require maestroerror/laragent
 
